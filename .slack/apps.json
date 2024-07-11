@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "TF4TV0V9V": {
+      "app_id": "A07C11WDZEE",
+      "IsDev": false,
+      "team_domain": "owner-workspace-hq",
+      "team_id": "TF4TV0V9V"
+    }
+  },
+  "default": "owner-workspace-hq"
+}
